@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UGD-Zephyr
 - 👀 I’m interested in Programming and Software development.
-- 🌱 I’m currently learning C, vim, PowerShell, git, Python.
+- 🌱 I’m currently learning C, C++, vim, PowerShell, git and Python.
 - 💞️ I’m looking to collaborate on projects where I can be useful.
 - 📫 How to reach me: ugd.zephyr@gmail.com
 
